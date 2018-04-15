@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 系统分析与设计
-date: 2018-4-12
-categories: 日志
-tags: 博客
+title: Usecase Diagram
+description: 用例图
+category: blog
 ---
 
 # UI界面设计
