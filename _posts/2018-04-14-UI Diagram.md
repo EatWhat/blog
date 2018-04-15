@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Usecase Diagram
-description: 用例图
+title: UI Diagram
+description: UI界面
 category: blog
 ---
 
