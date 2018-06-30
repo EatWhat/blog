@@ -1,3 +1,9 @@
+---
+layout: post
+title: About
+description: 项目目录逻辑结构
+category: blog
+---
 # 1. 项目目录
 ![project](https://github.com/EatWhat/EatWhat.github.io/blob/master/img/project%20directory.png)
 
