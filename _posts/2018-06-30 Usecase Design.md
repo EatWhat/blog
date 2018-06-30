@@ -10,6 +10,8 @@
 ![UMLet](https://github.com/EatWhat/documents/raw/master/%E7%94%A8%E6%88%B7%E7%94%A8%E4%BE%8B%E5%9B%BE.png)
 
 ## 1.2 顺序图
+ECB顺序图[用户下单]
 ![ECB顺序图[用户下单]](https://github.com/EatWhat/documents/blob/master/ECB%E9%A1%BA%E5%BA%8F%E5%9B%BE%5B%E7%94%A8%E6%88%B7%E4%B8%8B%E5%8D%95%5D.png)
 ## 1.3 类图
+ECB类图[用户下单]
 ![ECB类图[用户下单]](https://github.com/EatWhat/documents/blob/master/ECB%E7%B1%BB%E5%9B%BE%5B%E7%94%A8%E6%88%B7%E4%B8%8B%E5%8D%95%5D.png)
