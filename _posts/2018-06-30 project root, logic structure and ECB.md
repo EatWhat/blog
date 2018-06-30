@@ -1,5 +1,5 @@
 # 1. 项目目录
-[project](https://github.com/EatWhat/EatWhat.github.io/blob/master/img/project%20directory.png)
+![project](https://github.com/EatWhat/EatWhat.github.io/blob/master/img/project%20directory.png)
 
 # 2. 目录解释
 
