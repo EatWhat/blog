@@ -1,3 +1,9 @@
+---
+layout: post
+title: About
+description: 用例设计
+category: blog
+---
 # 1. 使用ECB实现 make reservation用例的详细设计（包含用例简介，顺序图，类图）
 
 ## 1.1 用例简介
